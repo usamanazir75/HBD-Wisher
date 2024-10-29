@@ -40,6 +40,9 @@ a {
   font-weight: bolder;
 }
 #clock-box {
+  color:white;
+  -webkit-text-stroke: 1px black;
+  text-stroke: 3px black;
   position: absolute;
   left: 60px;
   top: 550px;
